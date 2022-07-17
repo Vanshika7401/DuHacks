@@ -105,4 +105,4 @@ In line 308, window.requestAnimationFrame() method tells the browser that you wi
 Code in between line 312 to 333 is to fulfills the purpose of ON/OFF switch for the camera, where OFF refreshes the website and ON asks for the camera permission & starts the on-screen timer.
 
 
-<h2> This is a effort by team Dotdeveloping </h2>
+<h2> This is a effort by team DotdevelopingTeam </h2>
